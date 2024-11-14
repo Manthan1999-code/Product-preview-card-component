@@ -1,0 +1,52 @@
+.main{
+    height: 450px;
+ margin: 0 auto;
+    width: 500px;
+    border: 2px solid black;
+}
+img{
+    height: 450px;
+    width: 50%;
+
+}
+div{
+    height: 500px;
+    width: 50%;
+    text-align:left;
+
+    
+}
+.main h1 h2{
+    margin-top: -500px;
+    margin-left: 50%;
+}
+.next{
+    margin-top: -450px;
+    margin-left: 50%;
+    padding: 1em; 
+}
+.next h2{
+    color: gray;
+    font-size: 0.8em;
+ font-family: sans-serif;
+    letter-spacing: 10px;
+}
+.next h1{
+    font-size: 2em;
+}
+.next p{
+    line-height: 20px;
+    color: gray;
+    font-size: 0.9em;
+    
+}.next h3{
+    font-size: 2em;
+    color: green;
+    
+}
+.next button{
+    padding: 1em;
+    width: 30%;
+    color: white;
+    background: green;
+}
